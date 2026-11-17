@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Orange Personal Cloud
+  structure:
+    - type: space
+      key: opc-docs-zh
+      title: 简体中文
+      path: docs
+      default: true
+      content:
+        directory: ./docs
+        language: zh
